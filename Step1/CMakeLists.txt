@@ -12,7 +12,6 @@ configure_file (
     "${PROJECT_BINARY_DIR}/TutorialConfig.h"
     )
 
-
 # add the executable
 add_executable(Tutorial tutorial.cxx)
 
